@@ -10,7 +10,7 @@ export const App = styled.div`
     top: 70px;
     scroll-snap-type: y mandatory;
 
-     background-color: #886E97;
+     background-color: #fff;
 
      height: calc(100vh - 70px);
      width: 100%;
