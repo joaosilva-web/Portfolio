@@ -1,7 +1,12 @@
 import styled from "styled-components";
 
 export const TopBar = styled.header`
-    width: 100%;
-    height: 70px;
+    position: fixed;
+
     background-color: #663881;
+    
+    height: 70px;
+    width: 100%;
+
+    z-index: 2;
 `
