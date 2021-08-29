@@ -15,6 +15,7 @@ export const App = styled.div`
      height: calc(100vh - 70px);
      width: 100%;
 
+     scroll-behavior: smooth;
      scrollbar-width: none; //for firefox
      &::-webkit-scrollbar{
          display: none;

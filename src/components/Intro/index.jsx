@@ -3,7 +3,7 @@ import * as S from './styles';
 
 export default function Intro() {
     return(
-        <S.Intro>
+        <S.Intro id="intro">
             
         </S.Intro>
     )
