@@ -73,7 +73,7 @@ h3{
 
     span{
         font-size: 30px;
-        color: #3F224F;
+        color: #1E0540;
     }
 
     .ityped-cursor {

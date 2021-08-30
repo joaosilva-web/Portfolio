@@ -31,8 +31,8 @@ export default function Intro() {
             <S.TextContainer>
                 <S.Wrapper>
                     <h2>Hi there, I'm</h2>
-                    <h1>João Gustavo Ribeiro da Silva</h1>
-                    <h3>I work with <span ref={textRef}></span> </h3>
+                    <h1>João Gustavo Ribeiro<br/> da Silva</h1>
+                    <h3>I'm a Front-end developer and i work with <span ref={textRef}></span> </h3>
                 </S.Wrapper>
                 <a href="#portfolio">
                     <FontAwesomeIcon icon={faAngleDown} size="6x"/>
