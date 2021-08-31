@@ -11,7 +11,6 @@ export default function TopBar() {
                 <S.list>
                     <li><a href="#intro">Home</a></li>
                     <li><a href="#portfolio">Portfólio</a></li>
-                    <li><a href="#works">Works</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </S.list>
             </S.wrapper>

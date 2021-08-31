@@ -27,7 +27,7 @@ export const logo = styled.div`
         text-decoration: none;
 
         h2{
-            color: #1E0540;
+            color: #532DA6;
         }
     }
 `
@@ -39,7 +39,7 @@ export const list = styled.ul`
         margin: 0 10px;
 
         a{
-            color: #1E0540;
+            color: #532DA6;
             text-decoration: none;
         }
     }
